@@ -1,0 +1,6 @@
+@CrushIt.Server_HostAddress = http://localhost:5259
+
+GET {{CrushIt.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
