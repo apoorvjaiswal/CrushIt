@@ -1,4 +1,4 @@
-# Dating Application
+# CrushIt-Dating made easy
 
 A full-featured dating application built with **React** for the frontend and **.NET MVC** for the backend, offering a seamless experience for users to connect, match, and chat with potential partners.
 
